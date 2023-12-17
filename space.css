@@ -1,0 +1,13 @@
+html {
+	background-image: url(images/planet.webp);
+	background-size: cover;
+}
+body {
+	font: sans-serif;
+	color: white;
+}
+h1 {
+	text-align: center;
+	text-decoration: underline;
+	
+}
